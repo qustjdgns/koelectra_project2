@@ -222,6 +222,8 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 
 ### Topic 1: 시청자 / 플랫폼 이용 이슈
 
+<img width="262" height="167" alt="1" src="https://github.com/user-attachments/assets/6bb56fc0-36ef-411f-a60b-ef321b76c6f6" />
+
 **주요 키워드:**  
 시청자, 회원, 서비스, 플랫폼, 채널, 유튜브, 방송, 게임
 
@@ -232,6 +234,9 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 ---
 
 ### Topic 2: 계정 / 제재 / 이용 제한 이슈
+
+<img width="239" height="151" alt="2" src="https://github.com/user-attachments/assets/fc2495e8-3ba0-4ddb-8414-5cc8d9e29230" />
+
 
 **주요 키워드:**  
 계정, 블랙, 정지, 로그인, 인증, 아이디, 차단, 가입
@@ -245,6 +250,9 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 
 ### Topic 3: 기능 요청 / 서비스 개선 이슈
 
+<img width="252" height="154" alt="3" src="https://github.com/user-attachments/assets/3862c94c-3ef0-40fd-92bf-56d80843af0e" />
+
+
 **주요 키워드:**  
 기능, 채팅, 모바일, 화질, 영상, 관리, 개선
 
@@ -257,6 +265,9 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 
 ### Topic 4: 서버 / 운영 / 시스템 이슈
 
+<img width="249" height="156" alt="4" src="https://github.com/user-attachments/assets/917e4818-f295-44e7-bd6a-8fbaa33cc4b4" />
+
+
 **주요 키워드:**  
 서버, 진행, 운영, 중지, 문제, 업데이트
 
@@ -268,6 +279,9 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 ---
 
 ### Topic 5: 고객 문의 / 사용 문의
+
+<img width="251" height="155" alt="5" src="https://github.com/user-attachments/assets/46b80227-7f4d-47d7-908a-780d2f7c7186" />
+
 
 **주요 키워드:**  
 사용, 문의, 제공, 적용, 확인, 댓글, 방송국
@@ -307,6 +321,7 @@ SOOP 유저 게시글은 단순 잡담이 아니라 **명확한 유형의 이슈
 이를 통해 자동 분류 모델이 단순 분류를 넘어  
 
 **운영 리스크 감지 시스템으로 활용 가능함** 을 확인하였다.
+
 ---
 
 ## 7. 결론
