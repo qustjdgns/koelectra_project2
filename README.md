@@ -216,8 +216,6 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 
 각 토픽은 워드클라우드 시각화를 통해 핵심 키워드를 분석하였다.
 
-<img width="1000" height="973" alt="Figure_4" src="https://github.com/user-attachments/assets/9ab56214-048f-467b-a4bc-90b5dbd687cd" />
-
 ---
 
 ### Topic 1: 시청자 / 플랫폼 이용 이슈
