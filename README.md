@@ -131,14 +131,8 @@ def crawl_detail_content(driver, item):
 
 ### 4.2 라벨 분포
 
-| 클래스 | 건수 |
-|--------|------|
-| 기능건의 | 5,818 |
-| 기술오류 | 3,776 |
-| 정책비판 | 2,410 |
-| 공지 | 447 |
-| 기타 | 12,454 |
-| **총합** | **24,905** |
+<img width="800" height="600" alt="Figure_3" src="https://github.com/user-attachments/assets/a9ac58bb-943e-45fa-9474-8ba03552c386" />
+
 
 ---
 
