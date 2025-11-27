@@ -156,12 +156,8 @@ def crawl_detail_content(driver, item):
 
 ### 5.2 Epoch별 학습 결과
 
-| Epoch | Avg Loss | Val Accuracy |
-|-------|----------|--------------|
-| 1 | 0.5915 | 0.9185 |
-| 2 | 0.2461 | 0.9396 |
-| 3 | 0.1783 | 0.9315 |
-| 4 | **0.1343** | **0.9406** |
+<img width="1000" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/c32b189e-3db5-4d99-b768-6c2b23ee5648" />
+
 
 #### 학습 해석
 
@@ -175,7 +171,8 @@ def crawl_detail_content(driver, item):
 GitHub에 아래 이미지 파일을 업로드하면 자동 표시된다.
 
 ```
-[Classification Report 결과 텍스트 복사/붙여넣기]
+<img width="1000" height="800" alt="Figure_1" src="https://github.com/user-attachments/assets/8c309d66-556a-45e8-addd-c99612a56f85" />
+
 ```
 
 - **결론**: 긴급도 '높음(2)' 클래스의 **재현율(Recall)** 은 **[수치 입력]%** 로 나타났다. 이는 모델이 긴급 이슈를 놓치지 않고 잘 감지하고 있음을 의미한다.
