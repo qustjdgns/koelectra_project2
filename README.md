@@ -216,11 +216,11 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 
 각 토픽은 워드클라우드 시각화를 통해 핵심 키워드를 분석하였다.
 
-<img width="1920" height="973" alt="Figure_4" src="https://github.com/user-attachments/assets/9ab56214-048f-467b-a4bc-90b5dbd687cd" />
+<img width="1000" height="973" alt="Figure_4" src="https://github.com/user-attachments/assets/9ab56214-048f-467b-a4bc-90b5dbd687cd" />
 
 ---
 
-### 📌 Topic 1: 시청자 / 플랫폼 이용 이슈
+### Topic 1: 시청자 / 플랫폼 이용 이슈
 
 **주요 키워드:**  
 시청자, 회원, 서비스, 플랫폼, 채널, 유튜브, 방송, 게임
@@ -231,7 +231,7 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 
 ---
 
-### 📌 Topic 2: 계정 / 제재 / 이용 제한 이슈
+### Topic 2: 계정 / 제재 / 이용 제한 이슈
 
 **주요 키워드:**  
 계정, 블랙, 정지, 로그인, 인증, 아이디, 차단, 가입
@@ -243,7 +243,7 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 
 ---
 
-### 📌 Topic 3: 기능 요청 / 서비스 개선 이슈
+### Topic 3: 기능 요청 / 서비스 개선 이슈
 
 **주요 키워드:**  
 기능, 채팅, 모바일, 화질, 영상, 관리, 개선
@@ -255,7 +255,7 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 
 ---
 
-### 📌 Topic 4: 서버 / 운영 / 시스템 이슈
+### Topic 4: 서버 / 운영 / 시스템 이슈
 
 **주요 키워드:**  
 서버, 진행, 운영, 중지, 문제, 업데이트
@@ -267,7 +267,7 @@ LDA(Latent Dirichlet Allocation) 토픽 모델링을 수행하였으며,
 
 ---
 
-### 📌 Topic 5: 고객 문의 / 사용 문의
+### Topic 5: 고객 문의 / 사용 문의
 
 **주요 키워드:**  
 사용, 문의, 제공, 적용, 확인, 댓글, 방송국
