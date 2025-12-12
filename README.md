@@ -163,7 +163,8 @@ def crawl_detail_content(driver, item):
 
 ### 5.2 Epoch별 학습 결과
 
-<img width="1000" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/c32b189e-3db5-4d99-b768-6c2b23ee5648" />
+<img width="1200" height="700" alt="Figure_1" src="https://github.com/user-attachments/assets/6edc7077-0026-46b5-b6a5-a72e317db559" />
+
 
 
 #### 학습 해석
